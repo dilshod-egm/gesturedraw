@@ -6,12 +6,6 @@
 
 ![image](https://github.com/dilshod-egm/gesturedraw/assets/84387723/70f3f1c1-8039-473d-8e6b-096622a47490)
 
-# Новый дизайн GestureDraw:
-![Desktop](https://github.com/dilshod-egm/gesturedraw/assets/84387723/54bab8a5-91ea-45d4-a3b0-15790124f8f6)
-![Desktop - 6](https://github.com/dilshod-egm/gesturedraw/assets/84387723/bced4749-7686-4aa9-9239-081036d8c3b6)
-
-
-
 # Используемые технологии:
 - HTML, CSS, JavaScript - для создания пользовательского интерфейса и функциональности рисования на холсте 
 - MediaPipe - для отслеживания движения рук в реальном времени, что позволяет рисовать жестами рук
@@ -42,3 +36,7 @@
 - Предпочитаемая рука: Левая или правая
 - Режим отладки: Отображает отладочные визуализации для отслеживания руки
 - Задержка нажатия: Устанавливает время задержки для обнаружения жеста щипка.
+
+# Новый дизайн GestureDraw:
+![Desktop](https://github.com/dilshod-egm/gesturedraw/assets/84387723/54bab8a5-91ea-45d4-a3b0-15790124f8f6)
+![Desktop - 6](https://github.com/dilshod-egm/gesturedraw/assets/84387723/bced4749-7686-4aa9-9239-081036d8c3b6)
